@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Gucci bag",
+            "description": "This is a fine gucci hand bag",
+            "price": 35000,
+            "image": "https://via.placeholder.com/450x550",
+            "thumbnail": "https://via.placeholder.com/150x150"
+        }
+    ]
+}
